@@ -123,3 +123,4 @@ Consulta el archivo `requirements.txt` para ver la lista completa de dependencia
 - Utiliza `st.write()` para depurar variables durante el desarrollo.
 - Aprovecha los widgets interactivos de Streamlit para hacer tus actividades más dinámicas.
 
+"# proyect_viernes" 
