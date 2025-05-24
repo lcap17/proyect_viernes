@@ -124,3 +124,4 @@ Consulta el archivo `requirements.txt` para ver la lista completa de dependencia
 - Aprovecha los widgets interactivos de Streamlit para hacer tus actividades más dinámicas.
 
 "# proyect_viernes" 
+"# proyect_viernes" 
